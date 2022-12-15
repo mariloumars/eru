@@ -229,7 +229,7 @@ p
     text-decoration: none;
     color: #d9dad9;
     padding:20px;
-    font-size: 15px;
+    font-size: 12px;
     border: solid 1px ;
     border-color:#d9dad9;
 }
@@ -256,7 +256,7 @@ p
 #bcreaperso:visited
 {
     background-color: #BF8840;
-    color: #202020;
+    color: #d9dad9;
 }
 
 #bcreaperso:hover
