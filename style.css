@@ -227,11 +227,11 @@ p
 .bouton
 {
     text-decoration: none;
-    background-color: #BF8840;
-    color: #202020;
+    color: #d9dad9;
     padding:17px;
     font-size: 15px;
-    border-radius: 10px;
+    border: solid 1px ;
+    border-color:#d9dad9;
 }
 
 #creaperso
